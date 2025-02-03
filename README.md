@@ -13,7 +13,6 @@
 
 ## Questions for KPI
 1. Overall Performance & Scale:
-<br>
 •Total Flights: How many flights has Goibibo facilitated/analyzed in this dataset?
 <br>
 •Flights by Airline: What is the distribution of flights across different airlines?
