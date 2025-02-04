@@ -47,7 +47,7 @@
 <br>
 
 ## Dashboard Interaction
--<a href="https://app.powerbi.com/groups/me/reports/c5005760-262a-4631-bc84-1da630c20680/417359ab46e28aaf32f8?experience=power-bi">Dashboard</a>
+-<a href="https://app.powerbi.com/groups/me/reports/a8c21d59-4189-4638-a4ad-8f9e09e76c2e/b67596a0c1c00d373121?experience=power-bi">Dashboard</a>
 
 ## Dashboard
 ![Screenshot (493)](https://github.com/user-attachments/assets/c8b67432-c733-4d49-9fec-25ef8caa9c9f)
